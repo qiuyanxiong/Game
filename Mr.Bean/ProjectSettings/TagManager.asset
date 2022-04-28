@@ -51,3 +51,6 @@ TagManager:
   - name: hero
     uniqueID: 2837870483
     locked: 0
+  - name: Props
+    uniqueID: 623043159
+    locked: 0
